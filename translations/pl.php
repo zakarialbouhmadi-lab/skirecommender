@@ -1,0 +1,37 @@
+<?php
+
+global $_MODULE;
+$_MODULE = array();
+$_MODULE['<{skirecommender}prestashop>skirecommender_af23348dba12f4cba63c0c4500bda6db'] = 'Dobór Nart';
+$_MODULE['<{skirecommender}prestashop>skirecommender_46a944fdc9a0c1fe4f90fc25643824b2'] = 'Pomaga klientom dobrać odpowiednie narty na podstawie ich parametrów';
+$_MODULE['<{skirecommender}prestashop>form_61f61c066365a367417c9f8f111ccb5b'] = 'Płeć pomaga nam dobrać odpowiednie narty';
+$_MODULE['<{skirecommender}prestashop>form_b3cc48b9752511726100c622e2b968b9'] = 'Wiek pozwala określić, czy potrzebne są narty juniorskie';
+$_MODULE['<{skirecommender}prestashop>form_801aac10adbc00df8b65d89d221e2893'] = 'Waga jest istotna przy doborze odpowiedniej długości nart';
+$_MODULE['<{skirecommender}prestashop>form_a5fe140a7e8290eb12816c03e318851f'] = 'Wzrost pomaga określić optymalną długość nart';
+$_MODULE['<{skirecommender}prestashop>form_64fa4bbfd4d8b5d521f152d512bf252b'] = 'Twój poziom zaawansowania:';
+$_MODULE['<{skirecommender}prestashop>form_1395134b4bf5ebe6b74c341801ec3d21'] = 'Początkujący lub uczący się podstaw';
+$_MODULE['<{skirecommender}prestashop>form_1b363431320dc0b85ff72136ba18cb4e'] = 'Swobodna jazda po większości tras';
+$_MODULE['<{skirecommender}prestashop>form_11424a7d6d03bc3d43f9724d130f4da0'] = 'Doświadczony narciarz';
+$_MODULE['<{skirecommender}prestashop>form_70e29ac83a36cbca18026e8895cd1cc7'] = 'Twój preferowany styl jazdy:';
+$_MODULE['<{skirecommender}prestashop>form_5673138f5f08a32e37d2e8aeead76140'] = 'Trasy przygotowane (ratrakowane)';
+$_MODULE['<{skirecommender}prestashop>form_558fcc5ee0ffa0a52176dc1e16fb6386'] = 'Wszechstronne zastosowanie';
+$_MODULE['<{skirecommender}prestashop>form_5d058d6fa04d212ee62adea2609afca7'] = 'Jazda sportowa i wyścigowa';
+$_MODULE['<{skirecommender}prestashop>form_9d13a9f759086cad38c753745fbade7d'] = 'Snowpark i freestyle';
+$_MODULE['<{skirecommender}prestashop>form_5944d9407d166a83e4d876bcd944a670'] = 'Waga musi być między 25 a 200 kg';
+$_MODULE['<{skirecommender}prestashop>form_e009612091c7f72a583f9af3b39c7260'] = 'Wzrost musi być między 100 a 240 cm';
+$_MODULE['<{skirecommender}prestashop>form_61505f299d33edb206c0badacb5151f1'] = 'Wiek musi być między 5 a 100 lat';
+$_MODULE['<{skirecommender}prestashop>form_0c55a6d6bae65abf63c50c37f232a8ce'] = 'Znajdź Swoje Idealne Narty';
+$_MODULE['<{skirecommender}prestashop>form_1df39b180c0ebe52a0856871a3142f8b'] = 'Wypełnij formularz, aby otrzymać spersonalizowane rekomendacje nart';
+$_MODULE['<{skirecommender}prestashop>form_1fd9fc818b32467da398558bfaa0c7d7'] = 'Twoje Dopasowane Narty';
+$_MODULE['<{skirecommender}prestashop>form_b3c1e396a4e2d9219d92b8cb7810e6a9'] = 'Typ narty';
+$_MODULE['<{skirecommender}prestashop>form_5da8870c2c13dfcaeae5b9b448dcbb22'] = 'Długość narty';
+$_MODULE['<{skirecommender}prestashop>form_e191aafd204a3bd9d62862f7ccf13f39'] = 'Zobacz produkty';
+$_MODULE['<{skirecommender}prestashop>form_019ec3132cdf8ee0f2e2a75cf5d3e459'] = 'Płeć';
+$_MODULE['<{skirecommender}prestashop>form_63889cfb9d3cbe05d1bd2be5cc9953fd'] = 'Mężczyzna';
+$_MODULE['<{skirecommender}prestashop>form_b719ce180ec7bd9641fece2f920f4817'] = 'Kobieta';
+$_MODULE['<{skirecommender}prestashop>form_9d8d2d5ab12b515182a505f54db7f538'] = 'Wiek';
+$_MODULE['<{skirecommender}prestashop>form_91721604210524b7051d99c4c8478715'] = 'Waga (kg)';
+$_MODULE['<{skirecommender}prestashop>form_20fbaa7c1bf32aa91ed46514737a0687'] = 'Wzrost (cm)';
+$_MODULE['<{skirecommender}prestashop>form_38679065396e463e9aa45595693a56c7'] = 'Poziom zaawansowania';
+$_MODULE['<{skirecommender}prestashop>form_535bbc7a737b4aee603a731146eceeca'] = 'Preferowany styl';
+$_MODULE['<{skirecommender}prestashop>form_49c2276c835c309fc9da5470c084970d'] = 'Sprawdź Dobór Nart';

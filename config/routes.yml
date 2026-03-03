@@ -1,0 +1,11 @@
+module-skirecommender-form:
+  path: ski-calculator
+  methods: [GET, POST]
+  defaults:
+    _controller: 'PrestaShop\Module\SkiRecommender\Controller\FormController::indexAction'
+    _legacy_controller: 'SkiRecommenderForm'
+module-skirecommender-result:
+  path: ski-calculator/result
+  methods: [GET, POST]
+  defaults:
+    _controller: 'PrestaShop\Module\SkiRecommender\Controller\FormController::resultAction'
