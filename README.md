@@ -1,4 +1,5 @@
 # Ski Selector - Personalized Equipment Matching
+![PrestaShop](https://img.shields.io/badge/PrestaShop-8-blue)
 
 ## Overview
 
